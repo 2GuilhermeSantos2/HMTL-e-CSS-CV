@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Monday';
+    src: url(../fonts/Lazy\ Monday.otf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+    font-family: 'Monday', Arial, Helvetica, sans-serifz;
+}
